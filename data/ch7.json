@@ -1,0 +1,29 @@
+{
+ "n": 7,
+ "title": "Initial Assessment and History",
+ "summary": "The initial assessment establishes the pregnant woman's safety, a functional baseline, and the basis for a program adapted to pregnancy. It is interdisciplinary: the obstetrician, a pelvic floor physiotherapist and an exercise science professional work together. Its aims include ruling out contraindications, determining obstetric risk, identifying prior activity habits, assessing pelvic floor and posture, and supporting adherence.\n\nThe assessment is organized into seven blocks: identification, personal and family history, obstetric history, current pregnancy, physical activity history, lifestyle, and medical examination with basic clinical parameters. Tables give normal values, three fitness levels with starting recommendations, laboratory tests, and a four-level risk classification from low to very high, which guides the type, intensity and supervision of exercise.",
+ "points": [
+  "The assessment aims to ensure maternal and fetal safety, estimate obstetric risk and set a functional baseline for load, intensity and type of exercise.",
+  "It is organized into seven blocks, from sociodemographic data through to medical examination and clinical parameters.",
+  "Physical activity history uses tools such as PARmed-X or the PPAQ to classify the woman as active, moderately active or sedentary.",
+  "Normal blood pressure in pregnancy is < 140/90 mmHg, resting heart rate 70-90 bpm (may rise to 100), respiratory rate 12-20 per minute and body temperature <= 37.5 C.",
+  "Prepregnancy BMI of 18.5-24.9 kg/m2 is the reference range, and expected gestational weight gain is 9-18 kg depending on BMI.",
+  "Fetal heart rate is normally 110-160 bpm, and peripheral edema should be absent or mild.",
+  "Fitness is low, moderate or high: low starts with gentle walking, breathing and pelvic floor work; moderate maintains 150 min/week; high continues an adapted program prioritizing stability and fetal safety.",
+  "Lab references include hemoglobin 11-14 g/dL, fasting glucose 70-95 mg/dL and serum ferritin 20-150 ng/mL.",
+  "Risk is classed low, moderate, high or very high/absolute, and the last means discontinuing exercise until medical clearance."
+ ],
+ "takeaways": [
+  "Have the obstetrician rule out contraindications before you start.",
+  "Gather your obstetric history, current pregnancy data and prior activity level before planning.",
+  "Record baseline vital signs and fitness results so you can compare across trimesters.",
+  "Match your starting program to your fitness level: low, moderate or high.",
+  "Keep a structured record shared among doctor, physiotherapist and trainer.",
+  "Include pelvic floor, lumbopelvic stability and posture in the assessment."
+ ],
+ "cautions": [
+  "Avoid exercise if there is fever or acute infection.",
+  "Sustained blood pressure elevations suggest gestational hypertension or incipient preeclampsia and need attention.",
+  "With absolute contraindications (preeclampsia, placental abruption, placenta previa with bleeding, rupture of membranes), stop exercise until medical clearance."
+ ]
+}
